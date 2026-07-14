@@ -20,9 +20,10 @@
   "em": "2026-07-08T19:31:07.240Z"
  },
  "288796898": {
-  "texto": "Aberto email a respeito dos envios 127581 \t123573\t",
+  "texto": "Aberto email a respeito dos envios 127581 (ressarcimento) \t123573(entregue)",
   "por": "Eduardo",
-  "em": "2026-07-08T19:17:07.250Z"
+  "em": "2026-07-14T17:25:03.034Z",
+  "status": "ENTREGUE MANUAL"
  },
  "289273012": {
   "texto": "Ticket aberto no VIP aguardando resposta.",
