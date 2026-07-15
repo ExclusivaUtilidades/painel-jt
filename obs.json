@@ -158,8 +158,9 @@
  },
  "0035589595-F": {
   "texto": "Pedido cancelado",
-  "por": "Eduardo",
-  "em": "2026-07-08T19:21:33.474Z"
+  "por": "Pedro Augusto",
+  "em": "2026-07-15T19:06:28.618Z",
+  "status": "CANCELADO MANUAL"
  },
  "0035868931-A": {
   "texto": "Pedido Entregue pela Jameff",
