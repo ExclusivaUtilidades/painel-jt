@@ -393,9 +393,10 @@
   "status": "ENTREGUE MANUAL"
  },
  "289273012": {
-  "texto": "Ticket aberto no VIP aguardando resposta.",
+  "texto": "Pedido entregue no portal",
   "por": "Eduardo",
-  "em": "2026-07-08T19:19:43.247Z"
+  "em": "2026-07-22T18:49:20.656Z",
+  "status": "ENTREGUE MANUAL"
  },
  "289558066": {
   "texto": "",
