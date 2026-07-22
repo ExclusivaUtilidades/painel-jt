@@ -316,5 +316,11 @@
   "texto": "Pedido Entregue pela Jameff",
   "por": "Eduardo",
   "em": "2026-07-08T19:43:36.802Z"
+ },
+ "0035357174-D": {
+  "texto": "Pedido entregue no portal.",
+  "por": "Eduardo",
+  "em": "2026-07-22T13:35:57.005Z",
+  "status": "ENTREGUE MANUAL"
  }
 }
